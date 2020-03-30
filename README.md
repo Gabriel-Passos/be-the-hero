@@ -1,91 +1,39 @@
-# be-the-hero
-Aplicação desenvolvida durante a Semana OmniStack 11, utilizando tecnologias de ponta como NodeJS, ReactJS e React Native.
+# Be The Hero
 
+Aplicação desenvolvida durante a Semana OmniStack 11, utilizando tecnologias modernas como NodeJS, ReactJS e React Native.
 
-# Project Title
+## O que é Be The Hero?
 
-One Paragraph of project description goes here
+Be The Hero é uma aplicação web e mobile desenvolvida com as tecnologias mais modernas do mercado. O ojetivo é oferecer as ONGS um meio de encontrar pessoas que estendam as mãos para ajudar o próximo. A aplicação web é destinada as ONGS, onde as mesmas poderão se cadastrar e publicar seus casos, o mobile tem foco nos hérois(pessoas que estão dispostas a ajudar), podem realizar o download do aplicativo encontrar os casos das ONGS onde poderão entrar em contato através do e-mail e do whatsapp.
 
-## Getting Started
+### Instalação
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+Para que você possa testar a aplicação será necessário realizar o git clone do repositório, após está etapa é fundamental executar os seguintes códigos para as determinadas pastas:
 
 ```
-Give examples
+Dentro das pastas a seguir será necessário executar os seguintes códigos no terminal.
+
+backend:
+  "npm install" - Para instalar as depedências utilizadas na aplicação, a pasta 'node_modules' deverá aparecer.
+  "npm start" - Para dar start/iniciar no servidor que contém os dados armazenados no banco de dados.
+
+Frontend: 
+  "npm install" - Para instalar as depedências utilizadas na aplicação, a pasta 'node_modules' deverá aparecer.
+  "npm start" - Para dar start/iniciar na aplicação web.
+  
+Mobile:
+  "npm install" - Para instalar as depedências utilizadas na aplicação, a pasta 'node_modules' deverá aparecer.
+  "expo start" - Para dar start/iniciar na aplicação mobile.
+  
+#### Observação: para rodar a aplicação mobile é necessário baixar o aplicativo Expo em seu smartphone e ler o QR Code que será gerado, disponível na Google Store e na Apple Store.
 ```
 
-### Installing
+## Desenvolvido com
 
-A step by step series of examples that tell you how to get a development env running
+* [NoseJS](https://nodejs.org/en/docs/) 
+* [ReactJS](https://reactjs.org/docs/) 
+* [React Native](https://reactnative.dev/docs/) 
 
-Say what the step will be
+## Autores
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Gabriel Passos** - *Trabalho inicial* - [Gabriel-Passos](https://github.com/Gabriel-Passos)
