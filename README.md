@@ -13,7 +13,7 @@ Para que você possa testar a aplicação será necessário realizar o git clone
 ```
 Dentro das pastas a seguir será necessário executar os seguintes códigos no terminal.
 
-backend:
+Backend:
   "npm install" - Para instalar as depedências utilizadas na aplicação, a pasta 'node_modules' deverá aparecer.
   "npm start" - Para dar start/iniciar no servidor que contém os dados armazenados no banco de dados.
 
