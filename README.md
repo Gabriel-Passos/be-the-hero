@@ -32,8 +32,4 @@ Mobile:
 
 * [NoseJS](https://nodejs.org/en/docs/) 
 * [ReactJS](https://reactjs.org/docs/) 
-* [React Native](https://reactnative.dev/docs/getting-started) 
-
-## Autores
-
-* **Gabriel Passos** - *Trabalho inicial* - [Gabriel-Passos](https://github.com/Gabriel-Passos)
+* [React Native](https://reactnative.dev/docs/getting-started)
