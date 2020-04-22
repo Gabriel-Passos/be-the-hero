@@ -30,6 +30,6 @@ Mobile:
 
 ## Desenvolvido com
 
-* [NoseJS](https://nodejs.org/en/docs/) 
+* [NodeJS](https://nodejs.org/en/docs/) 
 * [ReactJS](https://reactjs.org/docs/) 
 * [React Native](https://reactnative.dev/docs/getting-started)
