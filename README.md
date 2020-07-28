@@ -6,7 +6,7 @@
   <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=blue&style=for-the-badge&logo=REACT"/><a/>
 </p>
 
-> Aplicação desenvolvida durante a Semana OmniStack 11, utilizando tecnologias modernas como NodeJS, ReactJS e React Native.
+> Aplicação desenvolvida durante a Semana OmniStack 11 da Rocketseat.
 
 ### Tópicos 
 
