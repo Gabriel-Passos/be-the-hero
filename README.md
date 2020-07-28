@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=blue&style=for-the-badge&logo=REACT"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=nodejs&message=16.13.1&color=blue&style=for-the-badge"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=blue&style=for-the-badge"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react-native&message=16.13.1&color=blue&style=for-the-badge"/><a/>
 </p>
 
 > Aplicação desenvolvida durante a Semana OmniStack 11 da Rocketseat.
