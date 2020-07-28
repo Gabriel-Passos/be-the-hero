@@ -1,6 +1,6 @@
 // JSX (JavaScript e XML)
 
-import React, { useState } from 'react';
+import React from 'react';
 
 import './global.css';
 
