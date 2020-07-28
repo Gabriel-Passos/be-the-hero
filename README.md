@@ -3,9 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=express&message=4.17.1&color=blue&style=for-the-badge"/><a/>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/static/v1?label=express&message=4.17.1&color=blue&style=for-the-badge"/><a/>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=blue&style=for-the-badge"/><a/>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react-native&message=sdk-36.0.0&color=blue&style=for-the-badge"/><a/>
+  <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=react-router-dom&message=16.13.1&color=blue&style=for-the-badge"/><a/>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/static/v1?label=react-native&message=sdk-36.0.0&color=blue&style=for-the-badge"/><a/>
+  <a href="https://reactnavigation.org/"><img src="https://img.shields.io/static/v1?label=react-navigation&message=16.13.1&color=blue&style=for-the-badge"/><a/>
 </p>
 
 > Aplicação desenvolvida durante a Semana OmniStack 11 da Rocketseat.
@@ -63,9 +65,12 @@ Você encontrará sua aplicação rodando em: http://localhost:3000
 
 ## Tecnologias utilizadas
 
-* [NodeJS](https://nodejs.org/en/docs/) 
-* [ReactJS](https://reactjs.org/docs/) 
-* [React Native](https://reactnative.dev/docs/getting-started)
+- [NodeJS](https://nodejs.org/en/docs/)
+- [Express](https://expressjs.com/)
+- [ReactJS](https://reactjs.org/docs/)
+- [React-Router-Dom](https://reactrouter.com/)
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [React Navigation](https://reactnavigation.org/)
 
 ## Telas do projeto 
 
