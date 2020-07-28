@@ -68,7 +68,7 @@ Você encontrará sua aplicação rodando em: http://localhost:3000
 - [NodeJS](https://nodejs.org/en/docs/)
 - [Express](https://expressjs.com/)
 - [ReactJS](https://reactjs.org/docs/)
-- [React-Router-Dom](https://reactrouter.com/)
+- [React-Router-DOM](https://reactrouter.com/)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [React Navigation](https://reactnavigation.org/)
 
