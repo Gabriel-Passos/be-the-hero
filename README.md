@@ -29,7 +29,7 @@
 ### O que é Be The Hero?
 
 <p align="justify">
-  Be The Hero é uma aplicação com ojetivo de oferecer as ONGS um meio de encontrar pessoas que queiram ajudar. A aplicação possuí duas frentes que estão consumindo a mesma API. As ONGS deverão utilizar a aplicação web para divulgar seus casos, enquanto os usuários deverão utilizar a aplicação mobile para visulizar os casos em aberto.
+  Be The Hero é uma aplicação com objetivo de oferecer as ONGS um meio de encontrar pessoas que queiram ajudar. A aplicação possuí duas frentes que estão consumindo a mesma API. As ONGS deverão utilizar a aplicação web para divulgar seus casos, enquanto os usuários deverão utilizar a aplicação mobile para visulizar os casos em aberto.
 </p>
 
 
