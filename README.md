@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/static/v1?label=express&message=4.17.1&color=blue&style=for-the-badge"/><a/>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=blue&style=for-the-badge"/><a/>
-  <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=react-router-dom&message=5.1.2&color=blue&style=for-the-badge"/><a/>
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/static/v1?label=react-native&message=sdk-36.0.0&color=blue&style=for-the-badge"/><a/>
-  <a href="https://reactnavigation.org/"><img src="https://img.shields.io/static/v1?label=react-navigation&message=5.1.3&color=blue&style=for-the-badge"/><a/>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/static/v1?label=Express&message=4.17.1&color=6807f9&style=flat"/><a/>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=6807f9&style=flat"/><a/>
+  <a href="https://reactrouter.com/"><img src="https://img.shields.io/static/v1?label=React-Router-DOM&message=5.1.2&color=6807f9&style=flat"/><a/>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/static/v1?label=React-Native&message=sdk-36.0.0&color=6807f9&style=flat"/><a/>
+  <a href="https://reactnavigation.org/"><img src="https://img.shields.io/static/v1?label=React-Navigation&message=5.1.3&color=6807f9&style=flat"/><a/>
 </p>
 
 > Aplicação desenvolvida durante a Semana OmniStack 11 da Rocketseat.
